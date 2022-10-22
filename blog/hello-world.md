@@ -1,7 +1,7 @@
 ---
 title: Hello World
-publish_date: None
-tags: []
+
+
 ---
 Welcome to the Road to Kubernetes!
 
