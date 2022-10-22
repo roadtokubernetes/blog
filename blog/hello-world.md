@@ -3,6 +3,8 @@ title: Hello World
 
 
 ---
+# Hello World
+
 Welcome to the Road to Kubernetes!
 
 Kubernetes is an amazing way to orchestrate Docker containers. For the uninitiated, this might sound like a complicated mess but I assure you -- you can do Kubernetes too!
