@@ -1,7 +1,7 @@
 ---
 title: Hello World
-
-
+author: Justin Mitchel
+publish_timestamp: March 18, 2022, 4:04 p.m.
 
 ---
 # [Hello World](http://www.desalsa.io:8000/blog/hello-world/)
