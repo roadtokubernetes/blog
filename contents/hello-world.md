@@ -20,8 +20,7 @@ Over the next however many months, we&#x27;ll be adding all kinds of great featu
 - Community Discussions
 - Self-guided and automated tools for generating the relevant Kubernetes configuration files (called Manifests)
 
-
-If you have any questions or suggestions please send me a tweet @justinmitchel
+If you have any questions or suggestions please send me a tweet @justinmitchel.
 
 Thank you for visiting and I hope to see what you build soon.
 
