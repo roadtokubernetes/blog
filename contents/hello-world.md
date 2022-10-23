@@ -9,7 +9,7 @@ url: https://www.roadtokubernetes.com/blog/hello-world/
 
 Welcome to the Road to Kubernetes!
 
-Kubernetes is an amazing way to orchestrate Docker containers. For the uninitiated, this might sound like a complicated mess but I assure you -- you can do Kubernetes too!
+Kubernetes is an amazing way to orchestrate Docker containers. For the uninitiated, this might sound like a complicated mess but I assure you it's an amazing set of tools and it's well worth learning!
 
 The goal of this website is to help you decide if Kubernetes is right for your team/project _now_, _in the future_, or maybe even _never_. 
 
