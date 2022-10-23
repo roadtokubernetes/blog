@@ -4,6 +4,7 @@ slug: hello-world
 author: Justin Mitchel
 publish_timestamp: Oct. 22, 2022, 3:29 a.m.
 url: https://www.roadtokubernetes.com/blog/hello-world/
+
 ---
 
 Welcome to the Road to Kubernetes!
@@ -12,7 +13,7 @@ Kubernetes is an amazing way to orchestrate Docker containers. For the uninitiat
 
 The goal of this website is to help you decide if Kubernetes is right for your team/project _now_, _in the future_, or maybe even _never_. 
 
-Over the next however many months, we&#x27;ll be adding all kinds of great features to help you on your quest to understanding how to wield Kubernetes with:
+Over the next however many months, we&amp;#x27;ll be adding all kinds of great features to help you on your quest to understanding how to wield Kubernetes with:
 
 - Tutorials and courses
 - A book (or two)
