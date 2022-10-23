@@ -1,10 +1,10 @@
 ---
 title: Hello World
-slug: 
+slug: hello-world
 author: Justin Mitchel
 publish_timestamp: Oct. 22, 2022, 3:29 a.m.
-
 url: https://www.roadtokubernetes.com/blog/hello-world/
+
 ---
 
 Welcome to the Road to Kubernetes!
