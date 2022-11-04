@@ -1,19 +1,30 @@
 ---
 title: Hello World
 slug: hello-world
-
-publish_timestamp: March 18, 2022, 4:04 p.m.
-url: http://www.desalsa.io:8000/blog/hello-world/
+author: Justin Mitchel
+publish_timestamp: Oct. 22, 2022, 3:29 a.m.
+url: https://www.roadtokubernetes.com/blog/hello-world/
 
 ---
 
-Welcome to CFE Django Blog
+Welcome to the Road to Kubernetes!
 
+Kubernetes is an amazing way to orchestrate Docker containers. For the uninitiated, this might sound like a complicated mess but I assure you it's an amazing set of tools and it's well worth learning!
 
-I wanted an easy way to launch a blog project from Django at anytime. That&#x27;s what this is all about.
+The goal of this website is to help you decide if Kubernetes is right for your team/project _now_, _in the future_, or maybe even _never_. 
 
-I&#x27;ll continue to update the code on [github](https://github.com/codingforentrepreneurs/cfe-django-blog) to get it as production-ready as possible!
+Over the next however many months, we'll be adding all kinds of great features to help you on your quest to understanding how to wield Kubernetes with:
 
+- Tutorials and courses
+- A book (or two)
+- Interviews with various industry experts
+- Community Discussions
+- Self-guided and automated tools for generating the relevant Kubernetes configuration files (called Manifests)
 
+If you have any questions or suggestions please send me a tweet [@justinmitchel](https://twitter.com/justinmitchel).
 
-- Photo by: [Vladislav Klapin](https://unsplash.com/photos/PVr9Gsj93Pc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditShareLink)
+Thank you for visiting and I hope to see what you build soon.
+
+Cheers!
+
+Justin Mitchel
